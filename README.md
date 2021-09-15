@@ -1,4 +1,4 @@
-# Searching Algorithms in C# Windows Form
+# Searching Algorithms in C# windows form
 
 In this repo, we have 4 searching algorithms that are written in C# windows form:
 * BFS
@@ -9,7 +9,7 @@ In this repo, we have 4 searching algorithms that are written in C# windows form
 ### Note!
 Since the cost of each action is equivalent to another, BFS results are as same as the UCS results.
 
-## How it works?
+## How does it work?
 In the following, we will explain the application.  
 
 ### Main Page
